@@ -1,0 +1,3 @@
+They are compiled via sass-maven-plugin during build. 
+
+See ../sass.
